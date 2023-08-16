@@ -4,7 +4,7 @@ This project involves conducting an Exploratory Data Analysis (EDA) on Spotify d
 
 # Tech Stack
 * Jupyter Notebook
-* Python Libraries
+* Python
 * Numpy
 * Pandas 
 * Matplolib
