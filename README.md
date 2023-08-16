@@ -1,3 +1,11 @@
 # Spotify_EDA
 
-This project involves conducting an Exploratory Data Analysis (EDA) on a Superstore sales dataset spanning four years. The goal is to gain insights and identify sales trends across various dimensions.
+This project involves conducting an Exploratory Data Analysis (EDA) on Spotify dataset. The main objective is to observe the trends and find the insights from the data
+
+# Tech Stack
+Jupyter Notebook
+Python libraries:
+Numpy
+Pandas 
+Matplolib
+Seaborn
